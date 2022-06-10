@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AndrepWalter
-- 👀 I’m interested in webapps, python, machine learning and 
-- 🌱 I’m currently learning C# and machine learning packages on python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in webapps, python, machine learning, data science and android apps.
+- 🌱 I’m currently learning machine learning, data science and web development packages on python
 - 📫 How to reach me on LinkedIn
   https://www.linkedin.com/in/andrepwalter/
 
